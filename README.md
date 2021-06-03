@@ -24,7 +24,7 @@
 - [Usage](#usage)
 - [Getting Started](#getting_started)
 
-## 🎞 About <a name = "demo"></a>
+## 🎞 Demo <a name = "demo"></a>
 - You can watch the demo at [./Demo.mkv](/Demo.mkv)
 
 ## 🧐 About <a name = "about"></a>
@@ -58,6 +58,10 @@ $ java -jar target/com.katalon.executor-0.0.1-SNAPSHOT-shaded.jar -c="katalonc -
 $ java -jar target/com.katalon.executor-0.0.1-SNAPSHOT-shaded.jar -c="<Katalon Command>" -k="<KRE Installation Folder>" -d=":1" -x="-a -n 0 -s \\\"-screen 0 1024x768x24\\\""
 ```
 
+- For more detail about command usage:
+```shell
+$ java -jar target/com.katalon.executor-0.0.1-SNAPSHOT-shaded.jar
+```
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
