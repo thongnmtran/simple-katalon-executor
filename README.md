@@ -20,8 +20,12 @@
 ## 📝 Table of Contents
 
 - [About](#about)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Getting Started](#getting_started)
+
+## 🎞 About <a name = "demo"></a>
+- You can watch the demo at [./Demo.mkv](/Demo.mkv)
 
 ## 🧐 About <a name = "about"></a>
 
